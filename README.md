@@ -1,16 +1,17 @@
-﻿# website-upload-854-111
+# 日韩好剧
 
-Batch 111 of 50. Contains extracted static website versions. The original zip files are not committed.
+生成结果概览：
 
-| Directory | Source zip |
-| --- | --- |
-| version-1101 | project-bolt-sb1-drtkvv3q-chatgpt (2).zip |
-| version-1102 | project-bolt-sb1-dsnagejx - 副本-chatgpt (1).zip |
-| version-1103 | project-bolt-sb1-dsnagejx-chatgpt (1).zip |
-| version-1104 | project-bolt-sb1-dsnagejx-chatgpt (1)__1.zip |
-| version-1105 | project-bolt-sb1-dsnagejx-chatgpt (2).zip |
-| version-1106 | project-bolt-sb1-dsnagejx-chatgpt.zip |
-| version-1107 | project-bolt-sb1-dwtkujgs - 副本-chatgpt (1) - from-a-20260526-121348-0333.zip |
-| version-1108 | project-bolt-sb1-dwtkujgs - 副本-chatgpt (1).zip |
-| version-1109 | project-bolt-sb1-dwtkujgs - 副本-chatgpt (2).zip |
-| version-1110 | project-bolt-sb1-dwtkujgs-chatgpt (1) - from-a-20260526-121348-0334.zip |
+- 影视记录：1980 条
+- 详情页：1980 个
+- 分类频道：9 个
+- 年份索引：75 个年份
+- 全部影片分页：20 页
+- 搜索页：search.html
+- 入口文件：index.html
+
+部署方式：
+
+1. 将本文件夹上传到静态托管环境。
+2. 访问 index.html。
+3. 需要上线到正式域名时，可按实际域名调整 sitemap.xml 中的地址。
